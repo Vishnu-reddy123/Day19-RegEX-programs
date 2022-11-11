@@ -1,11 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0400270d-9a3a-409e-a452-457597e7427f" name="Changes" comment="" />
+    <list default="true" id="0400270d-9a3a-409e-a452-457597e7427f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/.idea/libraries/gson_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/Day 11 and 12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/AccountDebit/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/AccountDebit/MainAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/DeckOfCardsQueue/DeckOfCardQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/SortDeckOfCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/StockAccountManagement/Stock/Stock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/StockAccountManagement/StockAccountManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 and 12/src/StockAccountManagement/StockDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 7 workshop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 7 workshop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 7 workshop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 7 workshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 7 workshop/Day 7 workshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 7 workshop/src/Greatest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 7 workshop/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/Day10 Address Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/AddressBookEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/AddressBookLauncherUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/AddressBookLauncherUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/AddressBookLauncherUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/AddressBookMainUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/AddressBookMainUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 Address Book/src/PersonDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/Day10 USE CASE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/src/CompanyEmpWageUC11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/src/CompanyEmpWageUC12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10 USE CASE/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/CompanyEmpWageUC11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/CompanyEmpWageUC12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/EmpWageUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/EmployeePresentOrAbsentUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/EmployeeWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/EmployeeWageComputation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/EmployeeWageComputationUC10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/EmployeeWageComputationUC13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/EmployeeWageComputationUC14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/EmployeeWageUC7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/PartTimeUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/SwitchUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/WagesForMonthUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day10/src/WagesUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/Day13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/FloatsMaximumUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/GenericMethod/GenericMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/GenericMethod/GenericMaxInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/GenericMethod/MaxInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/GenericMethod/MaxIntegerTC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/GenericMethod/MaxIntegerTC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/GenericMethod/MaxIntegerTC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/GenericMethod/MaxValueUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/IntegersMaximumUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13/src/StringsMaximumUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14 Stacks and Queues/Day14 Stacks and Queues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14 use/Day14 use.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/Day14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/LinkedListUC9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/MyNodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/SortedLinkedListMainUC10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/SortedLinkedListUC10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedList/StackUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedListUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/LinkedListUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Node/INode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Node/MyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Queue/LinkedListUC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Queue/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Queue/QueueMainUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Queue/QueueUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day14/src/Stack/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/Day15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/src/BinarySearchTree/BinarySearchTreeUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/src/BinarySearchTree/BinarySearchTreeUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/src/BinarySearchTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/src/Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/src/FrequencyUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15/src/RemoveWordUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/Day16 and 17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/DataStructure2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/DataStructure2/PrimeAnagramUsingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/DataStructure2/ReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/DataStructure2/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/ExArrayPrimeNumberMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/MagicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/PrimeAnagramCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/PrimeExtend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/TaskSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/WeekDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/cashCounter/BankSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/cashCounter/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/com/DataStructure/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/com/DataStructure/OrderedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/com/DataStructure/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/datastructure/balancedParenthesis/BalancedParanthesisProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16 and 17/src/datastructure/balancedParenthesis/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/Day16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/ExArrayPrimeNumberMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day16/src/WeekDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/Day18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day18/src/TicTacToe/TicTacToeUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day19 RegEx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/Day19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/EmailSamplesUC9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/MobileNumberValidationUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/ValidateEmailUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/ValidateFirstNameUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/ValidateLastNameUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/ValidatePassWordUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/ValidatePassWordUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/ValidatePassWordUC7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/ValidatePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19/src/ValidatePasswordUC8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/main/java/org/example/UserRegistrationUC/ValidateFirstNameUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20/src/test/java/org/example/UserRegistrationUC/ValidateFirstNameUC1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidateEmailUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidateFirstNameUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidateLastNameUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidateMobileNumberUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidateMultipleMailIDUC11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidatePasswordUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidatePasswordUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidatePasswordUC7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidatePasswordUC8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidatePasswordUC9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/main/java/org/example/UserRegistrationUC/ValidateUserDetailsUC10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidateEmailUC3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidateFirstNameUC1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidateLastNameUC2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidateMobileNumberUC4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidateMultipleMailIDUC11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidatePasswordUC5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidatePasswordUC6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidatePasswordUC7Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidatePasswordUC8Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidatePasswordUC9Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day20TestCase/src/test/java/org/example/UserRegistrationUC/ValidateUserDetailsUC10Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/main/java/org/example/mood_analyser/MoodAnalyserTC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/main/java/org/example/mood_analyser/MoodAnalyserTC1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/main/java/org/example/mood_analyser/MoodAnalyserTC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/main/java/org/example/mood_analyser/MoodAnalyserUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/main/java/org/example/mood_analyser/MoodAnalyzerUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/test/java/org/example/mood_analyser/MoodAnalyserTC1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/test/java/org/example/mood_analyser/MoodAnalyserTC1_2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/test/java/org/example/mood_analyser/MoodAnalyserTC2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/test/java/org/example/mood_analyser/MoodAnalyserUC1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21/src/test/java/org/example/mood_analyser/MoodAnalyzerUC2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/src/main/java/org/example/Exceptions/UserRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/src/main/java/org/example/Exceptions/UserRegistrationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day21_UserRegistration_Exception/src/test/java/org/example/Exceptions/UserRegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/Day22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/AddressBookEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/AddressBookLauncherUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/AddressBookLauncherUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/AddressBookLauncherUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/AddressBookMainUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/AddressBookMainUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/AddressBookUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day22/src/PersonDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4 use case/Day4 use case.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4 use case/src/EmpWageUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4 use case/src/EmployeePresentOrAbsent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4 use case/src/SwitchUC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4 use case/src/WagesForMonthUC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4 use case/src/WagesUC6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9/src/EmployeeWageOfCompanyUC8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day9/src/EmployeeWageUC8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/Method/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/Method/MainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Dup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/EvenPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/OddPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Rever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/SmallestPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/SortAsc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/src/CheckVowelOrConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/src/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice1/src/SumOfNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day10/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day10/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day9/out/production/Day9/EmployeeWage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day9/out/production/Day9/EmployeeWageOfCompany.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day9/src/EmployeeWage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day10/src/EmployeeWageUC8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day9/src/EmployeeWageOfCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day10/src/EmployeeWageOfCompanyUC8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HP87XrR4xmrhvT9ZCFv9eAa8Gg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,5 +374,16 @@
       <updated>1668175195353</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
